@@ -1,0 +1,25 @@
+# Directorios generados por NetBeans
+build/
+dist/
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros IDEs
+.vscode/
+.idea/
+*.iml
