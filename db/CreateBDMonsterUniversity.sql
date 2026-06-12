@@ -15,7 +15,7 @@ SET QUOTED_IDENTIFIER ON;
 GO
 
 /* ---------------------------
-   2) TABLAS (estructura convertida)
+   2) TABLAS
    --------------------------- */
 
 -- aeasi_asign

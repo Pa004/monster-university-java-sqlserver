@@ -216,7 +216,7 @@ CREATE DATABASE MonsterUniversity;
 
 ### 3. Import Database Scripts
 
-Execute the SQL script provided with the project.
+Execute the SQL scripts provided with the project.
 
 ### 4. Configure Database Connection
 
@@ -258,15 +258,17 @@ NetBeans → Run Project
 ## 📂 Project Structure
 
 ```text
-java_sqlserver
+monster-university-java-sqlserver
 │
 ├── src/                 Source code
 ├── test/                Unit tests
 ├── web/                 Web resources
 ├── libraries/           External libraries
 ├── nbproject/           NetBeans configuration
+├── db/                  SQL scripts
 ├── build.xml            Apache Ant build script
 ├── .gitignore           Git exclusions
+├── README.md            Project documentation
 │
 ├── build/               Generated files (ignored)
 └── dist/                Distribution files (ignored)
@@ -286,11 +288,7 @@ java_sqlserver
 
 ✔ Prerequisite Validation
 
-✔ Payment Validation
-
 ✔ Academic Reporting
-
-✔ Audit Logging
 
 ---
 
@@ -307,8 +305,6 @@ java_sqlserver
 ✔ Scalability-Oriented Structure
 
 ✔ Maintainable Codebase
-
-✔ Auditability
 
 ---
 
