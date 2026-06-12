@@ -1,13 +1,13 @@
 /* ---------------------------
    1) CREATE DATABASE y USE
    --------------------------- */
-IF DB_ID('Monster_University') IS NULL
+IF DB_ID('MonsterUniversity') IS NULL
 BEGIN
-    CREATE DATABASE Monster_University;
+    CREATE DATABASE MonsterUniversity;
 END
 GO
 
-USE Monster_University;
+USE MonsterUniversity;
 GO
 
 SET ANSI_NULLS ON;

@@ -1,7 +1,7 @@
 /* ---------------------------
    4) INSERT
    --------------------------- */
-use Monster_University;
+use MonsterUniversity;
 
 -- CAT�LOGOS B�SICOS -- 
 -- peesc_estciv
