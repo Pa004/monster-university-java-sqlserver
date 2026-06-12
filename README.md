@@ -60,9 +60,7 @@ The application follows a layered architecture that promotes maintainability, sc
 
 ### 🎓 Student
 - View available courses
-- Perform pre-enrollment
-- Complete enrollment process
-- View schedules
+- Enrollment process
 - Check payment status
 - Review academic information
 
@@ -74,13 +72,6 @@ The application follows a layered architecture that promotes maintainability, sc
 ### 🏢 Academic Secretary
 - Manage academic periods
 - Generate academic reports
-- Handle special enrollment situations
-
-### ⚙️ Enrollment Administrator
-- Manage courses and sections
-- Configure enrollment periods
-- Manage capacity limits
-- Control waitlists
 
 ### 🤖 System
 - Processes waitlists automatically
@@ -310,7 +301,7 @@ monster-university-java-sqlserver
 
 ## 🔄 Related Versions
 
-This repository represents the **Java + SQL Server** implementation of the Monster University Enrollment System.
+This repository represents the **Java + SQL Server** implementation of the Monster University Management System.
 
 Other available implementations include:
 
@@ -338,5 +329,5 @@ This project was developed for educational and academic purposes, demonstrating 
 
 ## 👨‍💻 Author
 
-**Monster University Enrollment Management System**  
+**Monster University Management System**  
 Java + SQL Server Implementation
