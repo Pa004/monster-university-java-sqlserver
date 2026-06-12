@@ -1,15 +1,15 @@
-# 🎓 Monster University Enrollment Management System
+# 🎓 Monster University Management System
 ### Java + SQL Server | NetBeans Project
 
 ---
 
 ## 📖 About the Project
 
-The **Monster University Enrollment Management System** is a comprehensive academic management platform designed to automate and control the complete enrollment lifecycle within a university environment.
+The **Monster University Management System** is a comprehensive academic management platform designed to automate various processes and activities within a university environment.
 
 This system was developed as a software engineering project focused on implementing academic processes, security mechanisms, business rules, and database management using **Java** and **Microsoft SQL Server**.
 
-The platform supports multiple user roles and provides secure access to enrollment, academic administration, reporting, auditing, and payment validation functionalities.
+The platform supports multiple user roles and provides secure access to academic administration, reporting and auditing.
 
 ---
 
